@@ -60,6 +60,11 @@
     <Compile Include="Assets\JoyconLib_scripts\HIDapi.cs" />
     <Compile Include="Assets\JoyconLib_scripts\JoyconManager.cs" />
     <Compile Include="Assets\JoyconLib_scripts\Joycon.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\IKFootSolver.cs" />
+    <Compile Include="Assets\ScriptBouton.cs" />
+=======
+>>>>>>> parent of f958c57 (Push Projet)
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\JoyconLib_plugins\win64\hidapi.dll" />

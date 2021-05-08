@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-0.6291537284851074,"y":2.3848061561584474,"z":0.47248393297195437},"rotation":{"x":0.1787749081850052,"y":0.23993799090385438,"z":-0.045010585337877277,"w":0.9531546831130981},"size":1.4589954614639283,"orthographic":true}
+=======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":-0.08717229217290878,"y":0.8995905518531799,"z":-0.21045254170894624,"w":-0.37262260913848879},"size":10.0,"orthographic":false}
+>>>>>>> parent of f958c57 (Push Projet)
